@@ -1,14 +1,12 @@
-# Flappy Bird Game
+# Flappy Duck Game
 
 ![version](https://img.shields.io/badge/version-1.0.2-blue)
 
-This project contains a Flappy Bird game developed using the Python programming language and the Pygame game development library. In this project, reflecting the classic and entertaining game mechanics, players control a bird and navigate it through obstacles to see how long they can survive.
+This project contains a Flappy Duck game developed using the Python programming language and the Pygame game development library. In this project, reflecting the classic and entertaining game mechanics, players control a duck and navigate it through obstacles to see how long they can survive.
 
 ## Gameplay
 
-The player's objective is to control the bird, maneuvering it through pipes and earning the highest score possible. Players can make the bird flap upwards by pressing the spacebar on the keyboard. However, precise timing is essential to prevent the bird from falling too quickly. If the bird collides with pipes or the ground, the game ends.
-
-![screen record](gaming.gif)
+The player's objective is to control the duck, maneuvering it through pipes and earning the highest score possible. Players can make the duck flap upwards by pressing the spacebar on the keyboard. However, precise timing is essential to prevent the duck from falling too quickly. If the duck collides with pipes or the ground, the game ends.
 
 ## How to Play
 
@@ -16,7 +14,7 @@ The player's objective is to control the bird, maneuvering it through pipes and 
 2. Ensure that you have Python 3 and the Pygame library installed on your computer.
 3. Navigate to the project directory in your terminal.
 4. Start the game by using the command `python3 main.py`.
-5. Use the spacebar key on the keyboard to control the bird's upward movement.
+5. Use the spacebar key on the keyboard to control the duck's upward movement.
 6. If the player collides, they can restart the game by pressing the ESC key.
 
 ## Why This Project?
@@ -35,4 +33,4 @@ This project is licensed under the Apache License 2.0. For more information, ple
 
 ---
 
-Challenge yourself to beat your own high score in Flappy Bird and enjoy the fun of this game! If you have any questions or feedback, don't hesitate to reach out.
+Challenge yourself to beat your own high score in Flappy Duck and enjoy the fun of this game! If you have any questions or feedback, don't hesitate to reach out.
