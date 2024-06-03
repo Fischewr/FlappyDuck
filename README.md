@@ -1,4 +1,4 @@
-# Flappy bird Game
+# Flappy Bird Game
 
 ![version](https://img.shields.io/badge/version-1.1-blue)
 
