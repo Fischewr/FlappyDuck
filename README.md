@@ -1,6 +1,6 @@
 # Flappy bird Game
 
-![version](https://img.shields.io/badge/version-1.0-blue)
+![version](https://img.shields.io/badge/version-1.1-blue)
 
 Este projeto foi MODIFICADO por Gustavo S. Fischer, Guilherme N. Baroni e Vitor M. Borinelli
 
